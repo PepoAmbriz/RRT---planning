@@ -9,11 +9,17 @@ Librerías necesarias
 Versión de Python: 3.10.11
 
 1 import glfw
+
 2 from OpenGL . GL import *
+
 3 import pygame
+
 4 import numpy as np
+
 5 import math
+
 6 import random
+
 7 import time
 
 Puedes correr el código una vez instaladas las dependencias necesarias, el código genera mapas aleatorios en donde se ejecuta el RRT. Una vez ejecutado el script presiona ’espacio’ para iniciar la expansión.
